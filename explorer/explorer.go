@@ -5,7 +5,6 @@ import (
 	"log"
 	"net/http"
 	"text/template"
-
 	"github.com/kyu-coder/nomadcoin/blockchain"
 )
 
